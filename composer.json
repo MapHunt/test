@@ -1,4 +1,6 @@
 {
+	"name": "kuzhukeev/DodoApi",
+    "type": "library",
 	"autoload":{
         "psr-4":{
             "kuzhukeev\\DodoApi\\": "src"
